@@ -1,1 +1,1 @@
-# liribot
+# liri-bot
